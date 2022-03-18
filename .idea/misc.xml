@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/slluser/Desktop/AdoptionV.2/app/src/main/res/layout/activity_adoption_report.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/slluser/Desktop/V2.1/adoptionV2.1/app/src/main/res/drawable/side_nav_bar.xml" value="0.1515" />
+        <entry key="..\:/Users/slluser/Desktop/V2.1/adoptionV2.1/app/src/main/res/layout/activity_adoption_home.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/V2.1/adoptionV2.1/app/src/main/res/layout/app_bar_home.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/V2.1/adoptionV2.1/app/src/main/res/layout/content_adoption_home.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/V2.1/adoptionV2.1/app/src/main/res/layout/fragment_adoption_home.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/V2.1/adoptionV2.1/app/src/main/res/layout/fragment_report_list.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/V2.1/adoptionV2.1/app/src/main/res/layout/home_page.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/V2.1/adoptionV2.1/app/src/main/res/layout/home_pages.xml" value="1.515625" />
+        <entry key="..\:/Users/slluser/Desktop/V2.1/adoptionV2.1/app/src/main/res/layout/nav_header.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/V2.1/adoptionV2.1/app/src/main/res/layout/viewcard_adoption.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/V2.1/adoptionV2.1/app/src/main/res/menu/menu_adoption.xml" value="0.225" />
+        <entry key="..\:/Users/slluser/Desktop/V2.1/adoptionV2.1/app/src/main/res/menu/menu_report.xml" value="0.225" />
+        <entry key="..\:/Users/slluser/Desktop/V2.1/adoptionV2.1/app/src/main/res/menu/nav_drawer_menu.xml" value="0.6077694235588973" />
+        <entry key="..\:/Users/slluser/Desktop/secondprojec/app/src/main/res/drawable/background_color.xml" value="0.1" />
+        <entry key="..\:/Users/slluser/Desktop/secondprojec/app/src/main/res/drawable/ic_baseline_add_button.xml" value="0.1615" />
+        <entry key="..\:/Users/slluser/Desktop/secondprojec/app/src/main/res/layout/activity_adoption_report.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/secondprojec/app/src/main/res/layout/activity_dogadoptioncentre.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/secondprojec/app/src/main/res/layout/viewcard_adoption.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/secondprojec/app/src/main/res/menu/menu_adoption.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/secondprojec/app/src/main/res/menu/menu_report.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/v2.0/adoptionV2.0/app/src/main/res/layout/activity_adoption_home.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/v2.0/adoptionV2.0/app/src/main/res/layout/activity_adoption_report.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/v2.0/adoptionV2.0/app/src/main/res/layout/activity_dogadoptioncentre.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/v2.0/adoptionV2.0/app/src/main/res/layout/fragment_adoption_home.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/v2.0/adoptionV2.0/app/src/main/res/layout/fragment_report_list.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/slluser/Desktop/v2.0/adoptionV2.0/app/src/main/res/menu/menu_adoption.xml" value="0.1" />
+        <entry key="..\:/Users/slluser/Desktop/v2.0/adoptionV2.0/app/src/main/res/menu/menu_report.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

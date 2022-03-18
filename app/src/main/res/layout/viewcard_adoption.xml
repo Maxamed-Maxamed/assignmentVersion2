@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="8dp"
+    android:elevation="24dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="323dp"
+        android:padding="16dp">
+
+
+        <ImageView
+            android:id="@+id/imageIcon"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="16dp"
+            android:contentDescription="@string/app_name"
+            app:srcCompat="@mipmap/ic_launcher_round"
+            tools:ignore="ImageContrastCheck" />
+
+        <TextView
+            android:id="@+id/nameOfPet1"
+            android:layout_width="121dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="17dp"
+            android:layout_toEndOf="@+id/imageIcon"
+            android:fontFamily="sans-serif-black"
+            android:textSize="24sp"
+            tools:text="@string/name_dog" />
+
+        <TextView
+            android:id="@+id/nameOfBreed2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="191dp"
+            android:layout_marginTop="30dp"
+            android:layout_toEndOf="@+id/imageIcon"
+            android:fontFamily="sans-serif-black"
+            android:textSize="24sp"
+            tools:text="@string/name_breed" />
+
+        <TextView
+            android:id="@+id/nameOfLocation3"
+            android:layout_width="121dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="78dp"
+            android:layout_marginTop="138dp"
+            android:layout_toEndOf="@+id/imageIcon"
+            android:fontFamily="sans-serif-black"
+            android:textSize="24sp"
+            tools:text="@string/name_location" />
+
+        <RatingBar
+            android:id="@+id/ratingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="39dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="258dp"
+            android:layout_toEndOf="@+id/imageIcon"
+            android:contentDescription="@string/rating_Bars"
+            android:fontFamily="sans-serif-black"
+            android:textSize="24sp" />
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DogAdoptionCentre</string>
+
+    <string name="titleOfBox">Welcome to Dog Adoption Centre</string>
+    <string name="name_dog">Name of the Pet</string>
+    <string name="name_breed">Name of the Breed</string>
+    <string name="name_location">Name of the Location</string>
+    <string name="plus_button">Adoption</string>
+    <string name="rating_Bars">Rating Bars</string>
+    <string name="text_field">Fill the form </string>
+
+    <string name="action_adoption_home">Adoption Home</string>
+    <string name="action_adoption_report">Report</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--nav icon and design-->
+    <string name="action_share">Share</string>
+    <string name="action_send">Send</string>
+    <string name="group_communicate">Communicate</string>
+    <string name="action_about">About</string>
+    <string name="action_maps">Maps</string>
+
+
+<!---->
+    <string name="nav_header_title">Adoption Centre</string>
+    <string name="nav_header_subtitle">voteforhomer@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+</resources>
